@@ -1,0 +1,6 @@
+2023-11-23T11:45:05+00:00 CRITICAL Uncaught FortAwesome\ReleaseMetadataMissingException: Eek! We&#039;re missing the information we need to load the version of Font Awesome you have selected. Go to your Font Awesome plugin settings page, re-select a version, and save. If that doesn&#039;t work, try deactivating and then re-activating the plugin. If that doesn&#039;t work either, you might need to delete and re-install the plug-in. in /home/lklalnjr/domains/jantrik.x10.bz/public_html/wp-content/plugins/font-awesome/includes/class-fontawesome-release-provider.php:160
+Stack trace:
+#0 /home/lklalnjr/domains/jantrik.x10.bz/public_html/wp-content/plugins/font-awesome/includes/class-fontawesome-release-provider.php(110): FortAwesome\FontAwesome_Release_Provider->__construct()
+#1 /home/lklalnjr/domains/jantrik.x10.bz/public_html/wp-content/plugins/font-awesome/includes/class-fontawesome-release-provider.php(560): FortAwesome\FontAwesome_Release_Provider::instance()
+#2 /home/lklalnjr/domains/jantrik.x10.bz/public_html/wp-content/plugins/font-awesome/in in /home/lklalnjr/domains/jantrik.x10.bz/public_html/wp-content/plugins/font-awesome/includes/class-fontawesome-release-provider.php on line 160
+

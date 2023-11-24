@@ -1,0 +1,1345 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-17 13:05:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: menu/variables.php:94
+msgid "Copy logs"
+msgstr "Sao chép nhật ký"
+
+#: copy-delete-posts.php:897
+msgid "Copy to clipboard was successfull."
+msgstr "Sao chép vào clipboard thành công."
+
+#: copy-delete-posts.php:898
+msgid "Copy to clipboard failed, your browser does not support this function."
+msgstr "Sao chép vào clipboard không thành công, trình duyệt của bạn không hỗ trợ chức năng này."
+
+#: post/handler.php:448
+msgid "Untitled Copy"
+msgstr "Bản sao không có tiêu đề"
+
+#: menu/variables.php:139
+msgid "Please wait, copying in progress..."
+msgstr "Vui lòng đợi, quá trình sao chép đang được thực hiện..."
+
+#: menu/variables.php:134
+msgid "Successfull copy image"
+msgstr "Sao chép ảnh thành công"
+
+#: menu/tooltips.php:275
+msgid "to"
+msgstr "tới"
+
+#: menu/tooltips.php:219
+msgid "Nav Menus"
+msgstr "Menu điều hướng"
+
+#: menu/tooltips.php:72
+msgid "Settings:"
+msgstr "Các cài đặt:"
+
+#: menu/tooltips.php:46
+msgid "Copy now!"
+msgstr "Sao chép ngay bây giờ!"
+
+#: menu/notifications.php:68
+msgid "Done:"
+msgstr "Đã xong:"
+
+#: menu/notifications.php:45
+msgid "In progress:"
+msgstr "Đang thực hiện:"
+
+#: menu/notifications.php:38
+msgid "Copy & Delete"
+msgstr "Sao chép & Xóa"
+
+#: menu/modal.php:243 menu/tooltips.php:294
+msgid "Copy it!"
+msgstr "Hãy sao chép nó!"
+
+#: menu/modal.php:218 menu/modal.php:230 menu/tooltips.php:63
+#: menu/tooltips.php:279
+msgid "this site"
+msgstr "trang web này"
+
+#: menu/modal.php:167 menu/tooltips.php:228
+msgid "Plugin options:"
+msgstr "Các tùy chọn plugin:"
+
+#: menu/modal.php:58 menu/tooltips.php:120
+msgid "–– Profiles ––"
+msgstr "–– Hồ sơ ––"
+
+#: menu/modal.php:55 menu/tooltips.php:77 menu/tooltips.php:117
+msgid "–– Select ––"
+msgstr "–– Lựa chọn ––"
+
+#: menu/configuration.php:966
+msgid "Delete selected pages/posts!"
+msgstr "Xóa các trang/bài đăng được chọn!"
+
+#: menu/configuration.php:963
+msgid "I completed <u>all</u> steps, it’s ok!"
+msgstr "Tôi đã hoàn thành <u>tất cả</u> các bước, nó rất ổn!"
+
+#: menu/configuration.php:944
+msgid "Move post(s) to trash?"
+msgstr "Di chuyển (các) bài đăng vào thùng rác?"
+
+#: menu/configuration.php:931
+msgid "per minute"
+msgstr "mỗi phút"
+
+#: menu/configuration.php:925
+msgid "Delete"
+msgstr "Xóa"
+
+#: menu/configuration.php:907 menu/configuration.php:921
+msgid "Enabled"
+msgstr "Bật"
+
+#: menu/configuration.php:906 menu/configuration.php:920
+msgid "Disabled"
+msgstr "Tắt"
+
+#: menu/configuration.php:780
+msgid "Huh?"
+msgstr "Huh?"
+
+#: post/handler.php:1494
+msgid "We couldn't catch current tasks, please try again later."
+msgstr "Chúng tôi không thể nắm được tác vụ hiện tại, vui lòng thử lại sau."
+
+#: post/handler.php:1479
+msgid "We can't confirm that we killed this task now, please try again later or check if it't killed."
+msgstr "Chúng tôi không thể xác nhận về việc hủy tác vụ này, vui lòng thử lại sau hoặc kiểm tra nếu nó không được hủy."
+
+#: post/handler.php:1456
+msgid "This task has already ended this work, please wait for list refresh and try again."
+msgstr "Tác vụ này đã kết thúc, vui lòng đợi làm mới danh sách và thử lại."
+
+#: post/handler.php:1440
+msgid "We can't hide this task now, – maybe it't already hidden. Please try again later."
+msgstr "Chúng tôi hiện không thể ẩn tác vụ - có thể nó đã bị ẩn trước đó. Vui lòng thử lại sau."
+
+#: post/handler.php:1365
+msgid "You can't clear messages when tasks are in progress, please firstly kill tasks or wait till the end."
+msgstr "Bạn không thể xóa tin nhắn khi các tác vụ đang được thực hiện, vui lòng hủy các tác vụ trước tiên hoặc đợi cho đến khi các tác vụ này kết thúc."
+
+#: menu/variables.php:141
+msgid ""
+"If you’re making a lot of copies it can take a while\n"
+"        <br>(up to 5 minutes if you’re on a slow server)."
+msgstr ""
+"Nếu bạn đang tạo quá nhiều bản sao, nó có thể mất một lúc  \n"
+"<br> (có thể lên đến 5 phút nếu bạn đang sử dụng máy chủ có tốc độ chậm)."
+
+#: menu/notifications.php:95
+msgid "Clear notifiactions"
+msgstr "Xóa thông báo"
+
+#: menu/modal.php:245 menu/tooltips.php:296
+msgid "Copy and jump to editing"
+msgstr "Sao chép và chuyển sang chỉnh sửa"
+
+#: menu/modal.php:239 menu/tooltips.php:103 menu/tooltips.php:290
+msgid "Making more than 50 copies will take some time. – depending on your server."
+msgstr "Việc tạo hơn 50 bản sao chép có thể mất một thời gian - phụ thuộc vào máy chủ của bạn."
+
+#: menu/modal.php:212 menu/tooltips.php:57 menu/tooltips.php:273
+msgid "time(s)"
+msgstr "số lần"
+
+#: menu/modal.php:189 menu/tooltips.php:250
+msgid "USM Settings"
+msgstr "Cài đặt USM"
+
+#: menu/modal.php:181 menu/tooltips.php:242
+msgid "Yoast Settings"
+msgstr "Cài đặt Yoast"
+
+#: menu/modal.php:173 menu/tooltips.php:234
+msgid "Woo Settings"
+msgstr "Cài đặt Woo"
+
+#: menu/configuration.php:880
+msgid "Steps to deletion:"
+msgstr "Các bước để xóa:"
+
+#: menu/configuration.php:890
+msgid "Select all the posts & pages which should be deleted (by ticking the checkboxes in the table above)."
+msgstr "Chọn tất cả các bài đăng & trang sẽ được xóa (bởi việc tick vào checkboxed trong bảng trên)."
+
+#: menu/configuration.php:875
+msgid "You selected <b class=\"cdp-t-d-ct cdp-f-w-light\">0</b> pages/posts to be deleted"
+msgstr "Bạn đã chọn <b class=\"cdp-t-d-ct cdp-f-w-light\">0</b> các trang/bài đăng để xóa"
+
+#: menu/configuration.php:867
+msgid "<u class=\"cdp-d-select-all cdp-f-w-light\">Select all</u> (also from other pages)"
+msgstr "<u class=\"cdp-d-select-all cdp-f-w-light\">Chọn tất cả</u> (từ những trang khác)"
+
+#: menu/configuration.php:849
+msgid "Date created"
+msgstr "Ngày tạo"
+
+#: menu/configuration.php:848
+msgid "Type"
+msgstr "Loại"
+
+#: menu/configuration.php:847
+msgid "Slug/URL"
+msgstr "Slug/URL"
+
+#: menu/configuration.php:834
+msgid "per page"
+msgstr "mỗi trang"
+
+#: menu/configuration.php:821
+msgid "Show"
+msgstr "Hiển thị"
+
+#: menu/configuration.php:794
+msgid "Delete ALL duplicates, don’t keep any (Be careful!)"
+msgstr "Xóa tất cả ban sao, không để lại bất kì cái nào (Hãy cẩn thận!)"
+
+#: menu/configuration.php:793
+msgid "Keep the newest duplicate (typically the last copy you made)"
+msgstr "Giữ lại bản sao mới nhất (thường là bản sao cuối cùng được tạo)"
+
+#: menu/configuration.php:756
+msgid "Yes"
+msgstr "Có"
+
+#: menu/configuration.php:755
+msgid "No"
+msgstr "Không"
+
+#: menu/configuration.php:766
+msgid "Word count"
+msgstr "Số từ"
+
+#: menu/configuration.php:764
+msgid "Excerpt (<span class=\"cdp-no-empty-text\"><b>including</b> empty</span>)"
+msgstr "Tóm tắt (<span class=\"cdp-no-empty-text\"><b>including</b> empty</span>)"
+
+#: menu/configuration.php:792
+msgid "Keep the oldest duplicate (typically the original)"
+msgstr "Giữ bản sao cũ nhất (thường là bản gốc)"
+
+#: menu/configuration.php:788
+msgid "Which version do you want to keep?"
+msgstr "Bạn muốn giữ lại bản nào?"
+
+#: menu/configuration.php:709
+msgid "Go premium now"
+msgstr "Chuyển sang premium ngay bây giờ"
+
+#: menu/configuration.php:683
+msgid "Redirection"
+msgstr "Chuyển hướng"
+
+#: menu/configuration.php:680
+msgid "Automatic Cleanup"
+msgstr "Dọn dẹp tự động"
+
+#: menu/configuration.php:677
+msgid "Manual Cleanup"
+msgstr "Dọn dẹp thủ công"
+
+#: menu/configuration.php:664
+msgid "Delete duplicate posts/pages"
+msgstr "Xóa bản sao các bài đăng/trang"
+
+#: menu/configuration.php:623
+msgid "Additional features"
+msgstr "Các tính năng được thêm vào"
+
+#: menu/configuration.php:572 menu/configuration.php:729
+msgid "Posts"
+msgstr "Bài đăng"
+
+#: menu/configuration.php:571 menu/configuration.php:730
+msgid "Pages"
+msgstr "Trang"
+
+#: menu/configuration.php:478
+msgid "dd/mm/yyyy"
+msgstr "dd/mm/yyyy"
+
+#: menu/configuration.php:477
+msgid "mm/dd/yyyy"
+msgstr "mm/dd/yyyy"
+
+#: menu/configuration.php:409 menu/configuration.php:500
+#: menu/configuration.php:648
+msgid "Save"
+msgstr "Lưu"
+
+#: menu/configuration.php:393
+msgid "Yoast SEO Settings"
+msgstr "Cài đặt Yoast SEO"
+
+#: menu/configuration.php:376
+msgid "Ultimate Social Media Settings"
+msgstr "Cài đặt Ultimate Social Media"
+
+#: menu/configuration.php:359
+msgid "WooCommerce Settings"
+msgstr "Cài đặt WooCommerce"
+
+#: menu/configuration.php:321 menu/modal.php:158
+msgid "Navigation Menus"
+msgstr "Menu điều hướng"
+
+#: menu/configuration.php:309 menu/modal.php:154 menu/tooltips.php:215
+msgid "Taxonomies"
+msgstr "Taxonomy"
+
+#: menu/configuration.php:304 menu/modal.php:150 menu/tooltips.php:211
+msgid "Tags"
+msgstr "Thẻ"
+
+#: menu/configuration.php:299 menu/modal.php:144 menu/tooltips.php:205
+msgid "Categories"
+msgstr "Chuyên mục"
+
+#: menu/configuration.php:279 menu/modal.php:140 menu/tooltips.php:201
+msgid "Attachments"
+msgstr "Đính kèm"
+
+#: menu/configuration.php:274 menu/modal.php:122 menu/tooltips.php:183
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: menu/configuration.php:269 menu/modal.php:118 menu/tooltips.php:179
+msgid "Author"
+msgstr "Tác giả"
+
+#: menu/configuration.php:264 menu/modal.php:114 menu/tooltips.php:175
+msgid "Format"
+msgstr "Định dạng"
+
+#: menu/configuration.php:259 menu/modal.php:108 menu/tooltips.php:169
+msgid "Template"
+msgstr "Bản mẫu"
+
+#: menu/configuration.php:249 menu/modal.php:100 menu/tooltips.php:161
+msgid "Content"
+msgstr "Nội dung"
+
+#: menu/configuration.php:244 menu/modal.php:96 menu/tooltips.php:157
+msgid "Excerpt"
+msgstr "Tóm tắt"
+
+#: menu/configuration.php:239 menu/modal.php:90 menu/tooltips.php:151
+msgid "Slug"
+msgstr "Slug"
+
+#: menu/configuration.php:234 menu/modal.php:86 menu/tooltips.php:147
+msgid "Status"
+msgstr "Trạng thái"
+
+#: menu/configuration.php:229 menu/modal.php:82 menu/tooltips.php:143
+msgid "Date"
+msgstr "Ngày"
+
+#: menu/configuration.php:185
+msgid "Add new"
+msgstr "Tạo mới"
+
+#: menu/configuration.php:184 menu/modal.php:67 menu/tooltips.php:85
+#: menu/tooltips.php:129
+msgid "Default"
+msgstr "Mặc định"
+
+#: menu/configuration.php:166
+msgid "Below are your"
+msgstr "Bên dưới là"
+
+#: menu/configuration.php:155
+msgid "Don't show this intro – never again!"
+msgstr "Không hiển thị phần giới thiệu này - không bao giờ hiển thị lại!"
+
+#: menu/configuration.php:151
+msgid "Got it, close intro!"
+msgstr "Đã hiểu, đóng phần giới thiệu!"
+
+#: menu/configuration.php:143 menu/configuration.php:579
+msgid "Admin bar"
+msgstr "Thanh quản trị"
+
+#: menu/configuration.php:137
+msgid "Edit screen"
+msgstr "Màn hình chỉnh sửa"
+
+#: menu/configuration.php:131
+msgid "List of posts/pages"
+msgstr "Danh sách các bài đăng/trang"
+
+#: menu/configuration.php:122
+msgid "Show intro"
+msgstr "Hiển thị phần giới thiệu"
+
+#: menu/configuration.php:119
+msgid "Welcome to Copy & Delete Posts!"
+msgstr "Chào mừng đến với Copy & Delete Posts!"
+
+#: menu/configuration.php:111
+msgid "Loading..."
+msgstr "Đang tải..."
+
+#: copy-delete-posts.php:1059
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: copy-delete-posts.php:881 menu/notifications.php:55
+msgid "Auto Cleaning-up"
+msgstr "Dọn dẹp tự động"
+
+#: menu/modal.php:52 menu/tooltips.php:115
+msgid "Use as basis settings"
+msgstr "Sử dụng làm cài đặt cơ bản"
+
+#: menu/modal.php:48 menu/tooltips.php:111
+msgid "Elements to copy:"
+msgstr "Các yếu tố để sao chép:"
+
+#: menu/configuration.php:969
+msgid "You will be notified when the deletion process ends via <span class=\"cdp-green\">Admin Bar Menu</span>."
+msgstr "Bạn sẽ được thông báo khi quá trình xóa kết thúc thông qua <span class=\"cdp-green\">Menu thanh quản trị</span>."
+
+#: menu/configuration.php:950
+msgid "Select this option to move deleted posts to trash (instead of deleting them permanently right away)."
+msgstr "Chọn tùy chọn này để chuyển các bài đăng đã xóa vào thùng rác (thay vì xóa chúng vĩnh viễn ngay lập tức)."
+
+#: menu/configuration.php:948
+msgid "Yes, keep deleted posts in trash!"
+msgstr "Vâng, giữ các bài đăng đã xóa ở thùng rác!"
+
+#: menu/configuration.php:990 menu/variables.php:105
+msgid "Your account on Wordpress.org (where you open a new support thread) is different to the one you login to your WordPress dashboard (where you are now). If you don't have a WordPress.org account yet, please sign up at the top right on here. It only takes a minute :) Thank you!"
+msgstr "Tài khoản của bạn trên WordPress.org (nơi bạn mở mỗi chuỗi hỗ trợ mới) khác với tài khoản bạn đăng nhập vào bảng điều khiển WordPress (nơi bạn hiện đang ở). Nếu bạn chưa có tài khoản WordPress.org, vui lòng đăng ký ở trên cùng tại đây. Nó chỉ tốn một chút thời gian của bạn thôi :) Cảm ơn bạn!"
+
+#: menu/configuration.php:938
+msgid "If it’s necessary the process will dynamically slow down - depending on your server’s resource consumption. For example, if you’re using another plugin which is running a background process and it takes a lot of resources (+50%), our plugin will wait/slow down until the other process is complete."
+msgstr "Nếu cần thiết, quá trình sẽ tự động chậm lại - tùy thuộc vào mức tiêu thụ tài nguyên máy chủ của bạn. Ví dụ, nếu bạn đang sử dụng một plugin chạy quá trình nền và nó chiếm nhiều tài nguyên (+50%), plugin của chúng tôi sẽ đợi/chạy chậm cho đến khi những quá trình khác hoàn thành."
+
+#: menu/configuration.php:936
+msgid "Enable this if you want to have your posts/pages getting deleted in batches (instead of all at once).<br />This reduces the risk of timeouts if you have a lot to delete.<br />"
+msgstr "Bất tính năng này nếu bạn muốn xóa hàng loạt bài đăng/trang của mình (thay vì tất cả cùng một lúc).<br />Điều này sẽ giảm nguy cơ hết thời gian chờ nếu bạn có nhiều thứ để xóa.<br />"
+
+#: menu/configuration.php:747
+msgid "Slugs are never 100% identical (i.e. Wordpress adds a counter automatically to ensure they are unique). The rule to only have them at least 85% identical does the job fine (you can see after the scan which posts are considered identical)."
+msgstr "Slug không bao giờ giống nhau 100% (tức là WordPress tự động thêm vào một bộ đếm để đảm bảo chúng là duy nhất). Quy tắc chỉ cho chúng giống nhau ít nhất 85% thì công việc mới hoạt động tốt (bạn có thể xem sau khi scan các bài đăng được cho là giống hết nhau)."
+
+#: menu/configuration.php:747
+msgid "Similar slug"
+msgstr "Slug tương tự"
+
+#: menu/configuration.php:744
+msgid "(show more options)"
+msgstr "(hiển thị nhiều tùy chọn hơn)"
+
+#: menu/configuration.php:726
+msgid "Scan for duplicates in..."
+msgstr "Scan các bản sao trong..."
+
+#: menu/configuration.php:702
+msgid ""
+"And: you can also use this feature for any other redirections you may need\n"
+"                      (not only redirects from deleted posts/pages)!"
+msgstr "Và: bạn cũng có thể sử dụng tính năng này cho bất kì các chuyển hướng khác mà bạn cần (không chỉ các chuyển hướng từ các bài đăng/trang bị xóa)!"
+
+#: menu/configuration.php:640
+msgid "Show post export & import buttons"
+msgstr "Hiển thị nút xuất & nhập bài đăng"
+
+#: menu/configuration.php:578 menu/configuration.php:587
+msgid "Edit screens"
+msgstr "Chỉnh sửa trang"
+
+#: menu/configuration.php:577 menu/configuration.php:586
+msgid "Posts/pages lists"
+msgstr "Danh sách các bài đăng/trang"
+
+#: menu/configuration.php:575
+msgid "Display copy option on..."
+msgstr "Hiển thị tùy chọn sao chép trên..."
+
+#: menu/configuration.php:532
+msgid "Pages vs. Posts converter"
+msgstr "Chuyển đổi các trang vs bài đăng"
+
+#: menu/configuration.php:528
+msgid "If you created multiple copies in one go, you’ll be taken to the first copy."
+msgstr "Nếu bạn đã tạo nhiều bản sao chép trong một lần, bạn sẽ được đưa đến bản sao đầu tiên."
+
+#: menu/configuration.php:525
+msgid "Decide on a case-by-case basis (adds new button on copy screen)"
+msgstr "Quyết định theo từng trường hợp cụ thể (thêm nút mới trên trang sao chép)"
+
+#: menu/configuration.php:524
+msgid "Take me to the edit-page of the created copy"
+msgstr "Đưa tôi đến trang chỉnh sửa của bản sao chép đã được tạo"
+
+#: menu/configuration.php:523
+msgid "Leave me where I was"
+msgstr "Để tôi ở nơi tôi đã"
+
+#: menu/configuration.php:519
+msgid "Navigation after copying"
+msgstr "Điều hướng sau khi sao chép"
+
+#: menu/configuration.php:513
+msgid "<b class=\"cdp-ff-b4\">Other</b> options"
+msgstr "<b class=\"cdp-ff-b4\">khác</b> các tùy chọn"
+
+#: menu/configuration.php:497
+msgid "If you make multiple copies in one go, use the Counter-option as otherwise some copies will have the same name."
+msgstr "Nếu bạn tạo nhiều bản sao cùng một lúc, sử dụng tùy chọn-đếm, nếu không một số bản sao sẽ cùng tên."
+
+#: menu/configuration.php:489
+msgid "CurrentTime"
+msgstr "Thời gian hiện tại"
+
+#: menu/configuration.php:479 menu/modal.php:59 menu/tooltips.php:121
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: menu/configuration.php:330 menu/modal.php:162
+msgid "Link categories"
+msgstr "Danh mục liên kết"
+
+#: menu/configuration.php:294 menu/modal.php:136 menu/tooltips.php:197
+msgid "Menu order"
+msgstr "Thứ tự menu"
+
+#: menu/configuration.php:289 menu/modal.php:132 menu/tooltips.php:193
+msgid "Comments"
+msgstr "Bình luận"
+
+#: copy-delete-posts.php:840
+msgid "Something went wrong and we couldn't save intro settings!"
+msgstr "Có lỗi xảy ra, chúng tôi không thể lưu các cài đặt giới thiệu!"
+
+#: copy-delete-posts.php:855
+msgid "Something went wrong and we couldn't get profile settings – please try again!"
+msgstr "Đã xảy ra lỗi và chúng tôi không thể tải cài đặt hồ sơ - vui lòng thử lại!"
+
+#: copy-delete-posts.php:854
+msgid "Copy & Delete Post – Error"
+msgstr "Copy & Delete Post – Lỗi"
+
+#: copy-delete-posts.php:853
+msgid "Something went wrong and we couldn't get profile settings. – Check console for more details"
+msgstr "Đã xảy ra lỗi và chúng tôi không thể tải cài đặt hồ sơ - Kiểm tra bảng điều khiển để biết thêm chi tiết"
+
+#: copy-delete-posts.php:852
+msgid "Unable to recognize selected profile, please try again."
+msgstr "Không thể nhận dạng hồ sơ được chọn, vui lòng thử lại."
+
+#: copy-delete-posts.php:851 copy-delete-posts.php:908
+msgid "Couldn't recognize that button, please try again."
+msgstr "Không thể nhận dạng nút, vui lòng thử lại."
+
+#: copy-delete-posts.php:850 copy-delete-posts.php:907
+msgid "Something went wrong and we couldn't copy this post. – See dev console for more info."
+msgstr "Đã xảy ra lỗi và chúng tôi không thể sao chép bài đăng này - Xem bảng điều khiển dành cho nhà phát triển để biết thêm chi tiết."
+
+#: copy-delete-posts.php:849 copy-delete-posts.php:906
+msgid "Something went wrong and we couldn't copy this post – please try again!"
+msgstr "Đã xảy ra lỗi và chúng tôi không thể sao chép bài đăng này - vui lòng thử lại sau!"
+
+#: copy-delete-posts.php:848
+msgid "You need to insert positive number for copies."
+msgstr "Bạn cần phải chèn số dương cho các bản sao."
+
+#: copy-delete-posts.php:847 menu/configuration.php:443
+#: menu/configuration.php:454
+msgid "(Name of original)"
+msgstr "(Tên của bản gốc)"
+
+#: copy-delete-posts.php:846
+msgid "Something went wrong and we couldn't save your settings. – Please check console for more info."
+msgstr "Đã xảy ra lỗi và chúng tôi không thể lưu cài đặt của bạn - Vui lòng kiểm tra bảng điều khiển để biết thêm chi tiết."
+
+#: copy-delete-posts.php:844
+msgid "All your settings were saved!"
+msgstr "Tất cả cài đặt của bạn đã được lưu lại!"
+
+#: copy-delete-posts.php:843
+msgid "Something went wrong and we couldn't update intro settings. – Please check console for more info."
+msgstr "Đã xảy ra lỗi và chúng tôi không thể cập nhập cài đặt giới thiệu - Vui lòng kiểm tra bảng điều khiển để biết thêm chi tiết."
+
+#: copy-delete-posts.php:842
+msgid "Something went wrong and we couldn't update intro settings – try again!"
+msgstr "Đã xảy ra lỗi và chúng tôi không thể cập nhập cài đặt giới thiệu - thử lại!"
+
+#: copy-delete-posts.php:841
+msgid "Something went wrong and we couldn't save intro settings."
+msgstr "Đã xảy ra lỗi và chúng tôi không thể lưu cài đặt giới thiệu."
+
+#: copy-delete-posts.php:870
+msgid "Please enter license key, currently it is empty."
+msgstr "Vui lòng nhập mã giấy phép, hiện đang để trống."
+
+#: copy-delete-posts.php:869
+msgid "Something went wrong and we couldn't setup the deletion task. – Please check console for more info."
+msgstr "Đã xảy ra lỗi và chúng tôi không thể cài đặt tác vụ xóa - vui lòng kiểm tra bảng điều khiển để biết thêm chi tiết."
+
+#: copy-delete-posts.php:868
+msgid "– Please try without throttling."
+msgstr "- Vui lòng thử mà không cần throttling."
+
+#: copy-delete-posts.php:867
+msgid "Something went wrong and we couldn't setup the deletion task."
+msgstr "Đã xảy ra lỗi và chúng tôi không thể cài đặt tác vụ xóa."
+
+#: copy-delete-posts.php:866
+msgid "Deletion process started, you can close this page now and wait till the process ends!"
+msgstr "Quá trình xóa đã bắt đầu, bạn có thể đóng trang này ngay bây giờ và đợi cho đến khi quá trình kết thúc!"
+
+#: copy-delete-posts.php:856 copy-delete-posts.php:909
+msgid "Copy in progress..."
+msgstr "Quá trình sao chép đang được thực hiện..."
+
+#: copy-delete-posts.php:857
+msgid "There was an error while getting data from server, please try again."
+msgstr "Đã có lỗi trong quá trình tải dữ liệu từ máy chủ, vui lòng thử lại."
+
+#: copy-delete-posts.php:863
+msgid "Please check that you completed all steps, before this task!"
+msgstr "Vui lòng kiểm tra rằng bạn đã hoàn thành tất cả các bước, trước tác vụ này!"
+
+#: copy-delete-posts.php:886
+msgid "Define your copy settings"
+msgstr "Xác định cài đặt sao chép của bạn"
+
+#: copy-delete-posts.php:885 menu/notifications.php:87
+msgid "Hide"
+msgstr "Ẩn"
+
+#: copy-delete-posts.php:884 menu/notifications.php:86
+msgid "Auto Cleaned-up"
+msgstr "Dọn dẹp tự động"
+
+#: copy-delete-posts.php:883 menu/notifications.php:86
+msgid "Deleted Posts"
+msgstr "Bài đăng đã xóa"
+
+#: copy-delete-posts.php:880 menu/notifications.php:55
+msgid "Deleting Posts"
+msgstr "Xóa bài đăng"
+
+#: menu/configuration.php:916
+msgid "Deletion throttling"
+msgstr "Xóa throtlling"
+
+#: copy-delete-posts.php:878
+msgid "Change it to (Name of original)"
+msgstr "Thay đổi nó thành (tên bản gốc)"
+
+#: copy-delete-posts.php:877
+msgid "only if <u><b>not</b></u> empty"
+msgstr "chỉ khi <u><b>không</b></u> trống"
+
+#: copy-delete-posts.php:876
+msgid "<b>including</b> empty"
+msgstr "<b>bao gồm</b> trống"
+
+#: copy-delete-posts.php:875
+msgid "Something went wrong and we couldn't send request, are you connected to the internet?"
+msgstr "Đã xảy ra lỗi và chúng tôi không thể gửi yêu cầu, bạn có đang kết nối với internet không?"
+
+#: copy-delete-posts.php:874
+msgid "Something went wrong and we couldn't send request, please try refresh page and try again."
+msgstr "Đã xảy ra lỗi và chúng tôi không thể gửi yêu cầu, vui lòng tải lại trang và thử lại."
+
+#: copy-delete-posts.php:873
+msgid "Unknown response, please try refresh the page!"
+msgstr "Phản hồi không xác định, vui lòng tải lại trang!"
+
+#: copy-delete-posts.php:872
+msgid "License is valid, press the button again to activate!"
+msgstr "Giấy phép hợp lệ, nhấn vào nút một lần nữa để kích hoạt!"
+
+#: copy-delete-posts.php:871
+msgid "License is already active, let us reload the page!"
+msgstr "Giấy phép đã được kích hoạt, tải lại trang!"
+
+#: copy-delete-posts.php:865
+msgid "You have wrong count in throttling field, please fix."
+msgstr "Bạn có sai số trong phạm vi throttling, vui lòng khắc phục."
+
+#: copy-delete-posts.php:864
+msgid "Nothing to do here, please select at least one post to delete."
+msgstr "Không có gì ở đây, vui lòng chọn ít nhất một bài đăng để xóa."
+
+#: copy-delete-posts.php:862
+msgid "No posts/pages meeting the current filter conditions."
+msgstr "Không có bài đăng/ trang nào đáp ứng các điều kiện lọc hiện tại."
+
+#: copy-delete-posts.php:861
+msgid "You did not select any filter.<br>Click <a href=\"#\" class=\"cdp-show-the-copies\">here</a> to show all copies (of the selected post type) made by this plugin."
+msgstr "Bạn không chọn bất kì bộ lọc nào. <br>Click <a href=\"#\" class=\"cdp-show-the-copies\">đây</a> để hiển thị tất cả bản sao (của các thể loại bài đăng đã được chọn ) được tạo bởi plugin này."
+
+#: copy-delete-posts.php:859
+msgid "Please, check for: which duplicates you are looking for"
+msgstr "Vui lòng, kiểm tra: bạn đang tìm kiếm bản sao nào"
+
+#: copy-delete-posts.php:260 copy-delete-posts.php:387
+#: copy-delete-posts.php:417 copy-delete-posts.php:441
+#: copy-delete-posts.php:463 menu/modal.php:207 menu/tooltips.php:268
+msgid "Copy"
+msgstr "Sao chép"
+
+#: copy-delete-posts.php:905
+msgid "Please select basic settings for this copy."
+msgstr "Vui lòng chọn những cài đặt cơ bản cho bản sao này."
+
+#: copy-delete-posts.php:887
+msgid "here"
+msgstr "tại đây"
+
+#: copy-delete-posts.php:904
+msgid "Please select at least one row to copy and try again."
+msgstr "Vui lòng chọn ít nhất một hàng để sao chép và thử lại."
+
+#: copy-delete-posts.php:903
+msgid "Please select at least one row to copy."
+msgstr "Vui lòng chọn ít nhất một hàng để sao chép."
+
+#: copy-delete-posts.php:895
+msgid "You're crazy! – Here is the output:"
+msgstr "Bạn đang bị nhầm lẫn! - Đây là đầu ra:"
+
+#: copy-delete-posts.php:893
+msgid "This post is a duplicate of"
+msgstr "Bài đăng này là bản sao của"
+
+#: copy-delete-posts.php:892
+msgid "Change the type of this copy <span class=\"cdp-premium-icon cdp-big-icon\"></span>"
+msgstr "Thay đổi loại bản sao này <span class=\"cdp-premium-icon cdp-big-icon\"></span>"
+
+#: copy-delete-posts.php:891
+msgid "If you’re on a multisite you can copy it to other sites."
+msgstr "Nếu bạn đang ở trên nhiều trang, bạn có thể sao chép nó sang các trang khác."
+
+#: copy-delete-posts.php:889 copy-delete-posts.php:890
+msgid "This is a Premium Feature.<br><a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Check it out and upgrade today</a>,<br>we made it <b>really affordable!</b>"
+msgstr "Đây là một tính năng Premium. <br><a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\"> Kiểm tra và nâng cấp ngay hôm nay</a>,<br>giá cả của nó<b>thực sự phải chăng</b>"
+
+#: copy-delete-posts.php:888
+msgid "If you’re on a multisite you can copy it to other sites with the Premium Plugin. <a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Order it now!</a>"
+msgstr "Nếu bạn đang ở trên nhiều trang, bạn có thể sao chép nó đến những trang khác với Plugin Premium<a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Đặt hàng ngay bây giờ!</a>"
+
+#: copy-delete-posts.php:819 copy-delete-posts.php:820
+msgid "There was an error and we couldn't hide the task."
+msgstr "Đã có lỗi và chúng tôi không thể ẩn tác vụ."
+
+#: copy-delete-posts.php:818
+msgid "The task has been hidden"
+msgstr "Tác vụ đã bị ẩn"
+
+#: copy-delete-posts.php:816 copy-delete-posts.php:817
+msgid "We couldn't update task list, please try again later or kill tasks individualy."
+msgstr "Chúng tôi không thể cập nhập danh sách tác vụ, vui lòng thử lại sau hoặc tắt từng tác vụ một."
+
+#: copy-delete-posts.php:815
+msgid "Tasks cleared!"
+msgstr "Tác vụ đã được xóa!"
+
+#: copy-delete-posts.php:813
+msgid "Alright! We will ask you again in 14 days!"
+msgstr "Được rồi! Chúng tôi sẽ hỏi lại bạn sau 14 ngày!"
+
+#: copy-delete-posts.php:689
+msgid "Copy this post"
+msgstr "Sao chép bài đăng này"
+
+#: copy-delete-posts.php:359
+msgid "Copy & Delete Posts Menu"
+msgstr "Menu Copy & Delete Posts"
+
+#: copy-delete-posts.php:357 copy-delete-posts.php:359
+msgid "<span id=\"cdp-menu\">Copy & Delete Posts</span>"
+msgstr "<span id=\"cdp-menu\">Copy & Delete Posts</span>"
+
+#: copy-delete-posts.php:329 copy-delete-posts.php:515
+msgid "Copy this"
+msgstr "Sao chép điều này"
+
+#: menu/configuration.php:219
+msgid "<b>If <u class=\"cdp-f-w-bold\">un</u>checked</b> copies will..."
+msgstr "<b>Nếu <u class=\"cdp-f-w-bold\">không</u>được kiểm tra</b> các bản sao sẽ...."
+
+#: menu/configuration.php:218
+msgid "<b>If checked</b> copies will..."
+msgstr "<b>Nếu được kiểm tra</b> các bản sao sẽ..."
+
+#: menu/configuration.php:208
+msgid "Which <b class=\"cdp-ff-b4\">elements</b> shall be copied?"
+msgstr "Những <b class=\"cdp-ff-b4\">thành phần nào </b> nên được sao chép?"
+
+#: menu/configuration.php:196
+msgid "+ Add / manage / import / export settings"
+msgstr "- Các cài đặt thêm vào / quản lý / nhập /  xuất"
+
+#: menu/configuration.php:149
+msgid "…and you can also <b>delete duplicate</b> posts easily, see below :)"
+msgstr "...và bạn cũng có thể <b>xóa bản sao</b> các bài đăng một cách dễ dàng, xem bên dưới :)"
+
+#: menu/configuration.php:128
+msgid "You can now easily copy posts & pages in various areas:"
+msgstr "Bạn hiện cũng có thể dễ dàng sao chép bài đăng / trang ở các lĩnh vực khác nhau:"
+
+#: copy-delete-posts.php:999
+msgid "post"
+msgstr "bài đăng"
+
+#: copy-delete-posts.php:999
+msgid "this"
+msgstr "điều này"
+
+#: copy-delete-posts.php:999
+msgid "Copy of"
+msgstr "Bản sao của"
+
+#: copy-delete-posts.php:828
+msgid "There was an error with this notification."
+msgstr "Đã xảy ra lỗi với thông báo này."
+
+#: copy-delete-posts.php:826
+msgid "Premium"
+msgstr "Premium"
+
+#: copy-delete-posts.php:824
+msgid "Plugin has been installed successfully, feel free to check those awesome features!"
+msgstr "Plugin đã được cài đặt thành công, hãy thoải mái kiểm tra những tính năng tuyệt vời này!"
+
+#: copy-delete-posts.php:822 copy-delete-posts.php:823
+msgid "There was an error and we couldn't kill the task."
+msgstr "Đã có lỗi và chúng tôi không thể tắt tác vụ."
+
+#: copy-delete-posts.php:821
+msgid "The task has been killed"
+msgstr "Tác vụ này đã bị tắt"
+
+#: copy-delete-posts.php:827
+msgid "It will hide this banner just for now."
+msgstr "Nó sẽ ẩn biểu ngữ này ngay bây giờ."
+
+#: copy-delete-posts.php:814
+msgid "This banner will not appear again, if any feature is missing you can ask for it on our support forum!"
+msgstr "Biểu ngữ này sẽ không xuất hiện lần nữa, nếu thiếu bất kỳ tính năng nào, bạn có thể hỏi  diễn đàn hỗ trợ của chúng tôi!"
+
+#: copy-delete-posts.php:811 copy-delete-posts.php:812
+msgid "Thank you very much for the review, this banner will not appear again!"
+msgstr "Cảm ơn bạn rất nhiều về bài đánh giá, biểu ngữ này sẽ không xuất hiện lần nữa!"
+
+#: copy-delete-posts.php:810
+msgid "Cannot send dismiss request. Are you connected to the internet?"
+msgstr "Không thể gửi yêu cầu loại bỏ. bạn có đang kết nối với internet không?"
+
+#: copy-delete-posts.php:809
+msgid "There was an issue while dismissing banner, please do it next time again."
+msgstr "Đã có sự khi loại bỏ biểu ngữ, vui lòng thực hiện lại lần sau."
+
+#: copy-delete-posts.php:879
+msgid "Change it to blank"
+msgstr "Thay đổi nó thành khoảng trống"
+
+#: menu/configuration.php:224 menu/configuration.php:741
+#: menu/configuration.php:846 menu/modal.php:78 menu/tooltips.php:139
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: menu/tooltips.php:223
+msgid "Link cats"
+msgstr "Liên kết những con mèo"
+
+#: menu/modal.php:104 menu/tooltips.php:165
+msgid "Feat. image"
+msgstr "Kết hợp hình ảnh"
+
+#: menu/configuration.php:912
+msgid "Enable this if you want to redirect the urls from your deleted posts/pages to the main one you decided to keep."
+msgstr "Bật tính năng này nếu bạn muốn chuyển hướng URL từ các bài đăng/trang đã xóa của mình đến trang chính mà bạn quyết định giữ lại."
+
+#: menu/configuration.php:894
+msgid "Check if you need these features (optional):"
+msgstr "Kiểm tra xem bạn có cần những tính năng này không (tùy chọn):"
+
+#: menu/configuration.php:850
+msgid "# of words"
+msgstr "# của các từ"
+
+#: menu/configuration.php:806
+msgid "Scan for duplicates now!<br /><small class=\"cdp-sm-d cdp-f-s-17 cdp-f-w-medium\">(at this point nothing gets deleted)</small>"
+msgstr "Scan các bản sao ngay bây giờ!<br /><small class=\"cdp-sm-d cdp-f-s-17 cdp-f-w-medium\">(tại thời điểm này, không có gì bị xóa)</small>"
+
+#: menu/configuration.php:800
+msgid "<b>Filter results (optional)</b>: Only list them, if they<span id=\"cdpp-switch-mf\"> […]</span>"
+msgstr "<b>Lọc kết quả (tùy chỉnh)</b>: Chỉ liệt kê, nếu chúng<span id=\"cdpp-switch-mf\"> […]</span>"
+
+#: menu/configuration.php:775
+msgid "Only count pages/posts of the same type as duplicates"
+msgstr "Chỉ tính các trang/bài đăng là bản sao thuộc cùng một thể loại"
+
+#: menu/configuration.php:768
+msgid "...need others? <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\">Suggest them!</a>"
+msgstr "...cần những thứ khác? <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\">Đề  xuất chúng!</a>"
+
+#: menu/configuration.php:757
+msgid "When does “yes” make sense here?"
+msgstr "Khi nào từ \"có\" có ý nghĩa ở đây?"
+
+#: menu/configuration.php:813
+msgid "Scan has found [<span id=\"cdp-d-table-pagi-ilosc-wynikow\" class=\"cdp-f-w-bold\"></span>] duplicates"
+msgstr "Scan đã tìm thấy  [<span id=\"cdp-d-table-pagi-ilosc-wynikow\" class=\"cdp-f-w-bold\"></span>] các bản sao"
+
+#: menu/configuration.php:225
+msgid "…get the title as defined in the <a href=\"#\" class=\"cdp-go-to-names-chapter\"><span class=\"cdp-green\">next section</span></a>."
+msgstr "...nhận tiêu đề như được xác định trong <a href=\"#\" class=\"cdp-go-to-names-chapter\"><span class=\"cdp-green\">phần tiếp theo</span></a>."
+
+#: menu/configuration.php:260
+msgid "…get the same page <a href=\"https://wpapprentice.com/blog/wordpress-theme-vs-template/\" target=\"_blank\"><span class=\"cdp-green\">template</span></a> as original."
+msgstr "...hãy sử dụng cùng một trang <a href=\"https://wpapprentice.com/blog/wordpress-theme-vs-template/\" target=\"_blank\"><span class=\"cdp-green\">template</span></a> như ban đầu."
+
+#: menu/configuration.php:757
+msgid "The copies you created may have been given different titles automatically (according to the rules in <a href=\"#\" class=\"cdp-go-to-names-chapter\">this section</a>) and therefore would not count as duplicates as they have different titles.<br /><br />To remedy this, you can select “Yes” here so that those posts/pages also get considered as duplicates."
+msgstr "Các bản sao bạn tạo có thể đã được cấp các tiêu đề khác nhau một cách tự động (dựa trên quy trắc trong <a href=\"#\" class=\"cdp-go-to-names-chapter\">phần này</a> và vì vậy sẽ không bị tính là trùng lặp vì chúng đã có những tiêu đề khác nhau <br /><br />Để khắc phục điều này, bạn có thể chọn \"Có\" tại đây để các bài đăng/trang đó được coi là trùng lặp."
+
+#: menu/configuration.php:256
+msgid "…get no featured image."
+msgstr "...không có hình ảnh nổi bật."
+
+#: menu/configuration.php:254
+msgid "Featured image"
+msgstr "Hình ảnh nổi bật"
+
+#: menu/configuration.php:251
+msgid "…get no content (be completely blank)."
+msgstr "...không có nội dung (để trống hoàn toàn)."
+
+#: menu/configuration.php:628
+msgid "Hide copy tooltip on hover and only show the button"
+msgstr "Ẩn tooltip sao chép trên hover và chỉ hiển thị nút"
+
+#: menu/configuration.php:584
+msgid "If checked, you will see a reference to the original post/page (on the copied version)."
+msgstr "Nếu được kiểm soát, bạn sẽ thấy tham chiếu đến bài đăng/trang gốc (trên phiên bản đã sao chép)."
+
+#: menu/configuration.php:583
+msgid "Show reference to original item?"
+msgstr "Hiển thị tham chiếu đến item gốc?"
+
+#: menu/configuration.php:581
+msgid "Gutenberg editor"
+msgstr "Trình chỉnh sửa Guntenberg"
+
+#: menu/configuration.php:543
+msgid "Copies will be the same type as the original"
+msgstr "Các bản sao sẽ cùng thể loại với bản gốc"
+
+#: menu/configuration.php:469
+msgid "CurrentDate"
+msgstr "Ngày hiện tại"
+
+#: menu/configuration.php:465
+msgid "Adds an <b class=\"cdp-f-w-semi-bold\">incremental counter</b> (starting with “2”)"
+msgstr "Thêm một <b class=\"cdp-f-w-semi-bold\">bộ đếm tăng dần</b> (bắt đầu với sô “2”)"
+
+#: menu/configuration.php:463
+msgid "Counter"
+msgstr "Bộ đếm"
+
+#: menu/configuration.php:459
+msgid "Drag & drop the automatic elements into the Prefix/Suffix fields to add them."
+msgstr "Kéo & thả các phần tự động đến vào các trường Tiền tố/Hậu tố để thêm chúng."
+
+#: menu/configuration.php:452
+msgid "Example based on current selections:"
+msgstr "Ví dụ được dựa trên các lựa chọn hiện tại:"
+
+#: menu/configuration.php:443
+msgid "Change to blank"
+msgstr "Thay đổi thành khoảng trống"
+
+#: menu/configuration.php:434
+msgid "Suffix"
+msgstr "Hậu tố"
+
+#: menu/configuration.php:432
+msgid "Prefix"
+msgstr "Tiền tố"
+
+#: menu/configuration.php:422
+msgid "What <b class=\"cdp-ff-b4\">name(s)</b> should the copies have?"
+msgstr "Nhưng thứ nào <b class=\"cdp-ff-b4\">name(s)</b> mà các bản sao nên có?"
+
+#: menu/configuration.php:261
+msgid "…get the default page template."
+msgstr "...nhận mẫu trang mặc định."
+
+#: menu/configuration.php:246
+msgid "…get an empty <i>custom</i> excerpt (and default to taking the first 55 words of the post)."
+msgstr "...nhận một <i>đoạn trích</i> tùy chỉnh trống (và mặc định lấy 55 từ đầu tiên của bài đăng)."
+
+#: menu/configuration.php:235
+msgid "…get status of original article (which can be “published” or “deleted” etc.)"
+msgstr "...lấy trạng thái của bài viết gốc (có thể được \"đăng\" hoặc bị \"xóa\", v.v.)"
+
+#: menu/configuration.php:296
+msgid "…get the menu order set to default (0)."
+msgstr "...đặt thứ tự menu thành mặc định (0)."
+
+#: menu/configuration.php:291
+msgid "…get no comments from the original."
+msgstr "...không nhận được bình luận nào từ bản gốc."
+
+#: menu/configuration.php:290
+msgid "…get all comments from the original."
+msgstr "...nhận tất cả bình luận từ bản gốc."
+
+#: menu/configuration.php:281
+msgid "…get existing attachments from the original."
+msgstr "...lấy các tệp đính kèm hiện có từ bản gốc."
+
+#: menu/configuration.php:266
+msgid "…get the standard post format."
+msgstr "...lấy định dạng bài đăng tiêu chuẩn."
+
+#: menu/configuration.php:271
+msgid "…get the user that is duplicating as an author."
+msgstr "...lấy người dùng sao chép làm tác giả."
+
+#: menu/configuration.php:286
+msgid "…not get their child pages copied along (if the page is a parent)."
+msgstr "...không sao chép các trang con của họ (nếu đây là trang mẹ)."
+
+#: menu/configuration.php:365 menu/configuration.php:382
+#: menu/configuration.php:399
+msgid "…get empty settings."
+msgstr "...nhận cài đặt trống."
+
+#: menu/configuration.php:364
+msgid "…the same settings from the <a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\"><span class=\"cdp-green\">WooCommerce plugin</span></a> as the original."
+msgstr "...cài đặt tương tự từ <a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\"><span class=\"cdp-green\">plugin WooCommerce </span></a> như bản gốc."
+
+#: menu/configuration.php:326 menu/configuration.php:331
+msgid "…get this private taxonomy from the original."
+msgstr "...nhận taxonomy riêng tư từ bản gốc."
+
+#: menu/configuration.php:311
+msgid "…be without custom taxonomy."
+msgstr "..không có taxonomy tùy chỉnh."
+
+#: menu/configuration.php:310
+msgid "…get all custom taxonomy from the original."
+msgstr "...nhận tất cả taxonomy tùy chỉnh từ bản gốc."
+
+#: menu/configuration.php:306
+msgid "…be without any tags."
+msgstr "...không có bất kỳ thẻ nào."
+
+#: menu/configuration.php:305
+msgid "…get all tags of the original post."
+msgstr "...nhận tất cả thẻ của bản gốc."
+
+#: menu/configuration.php:301
+msgid "…be Uncategorized, no categories will be copied."
+msgstr "...chưa được phân loại, không có chuyên mục nào được sao chép."
+
+#: menu/configuration.php:300
+msgid "…get all categories from the original post."
+msgstr "...nhận tất cả chuyên mục từ bài đăng gốc."
+
+#: menu/configuration.php:348
+msgid "…clone all metadata tags assigned to post/page."
+msgstr "...sao chép tất cả thẻ siêu dữ liệu được chỉ định cho bài đăng/trang."
+
+#: menu/configuration.php:411 menu/configuration.php:502
+#: menu/configuration.php:650 menu/configuration.php:973
+msgid "Close section"
+msgstr "Đóng khu vực"
+
+#: menu/configuration.php:428
+msgid "Build your preferred naming logic for the copies:"
+msgstr "Xây dựng logic đặt tên yêu thích của bạn cho các bản sao:"
+
+#: menu/configuration.php:580
+msgid "Bulk actions menu"
+msgstr "Menu thực hiện hàng loạt"
+
+#: menu/configuration.php:573
+msgid "Custom posts types"
+msgstr "Các loại bài đăng tùy chỉnh"
+
+#: menu/configuration.php:241
+msgid "…get a blank slug, unless the page is published, then it will generate it automatically."
+msgstr "...nhận một slug trống, nếu trang không được đăng, thì nó sẽ được tạo một cách tự động."
+
+#: menu/configuration.php:752
+msgid "Do you want to consider different titles still to be identical if a) the copied posts/pages<br />were created by this plugin and b) they were not modified thereafter?"
+msgstr "Bạn có muốn cân nhắc việc các tiêu đề khác nhau vẫn giống hệt nhau nếu a) bài đăng/trang được sao chép <br />được tạo bởi plugin này và b) chúng đã không được sửa đổi sau đó?"
+
+#: menu/configuration.php:736
+msgid "Count them as duplicates if they are identical with respect to <u class=\"cdp-f-w-bold\">all</u> of the below..."
+msgstr "Tính chúng là trùng lặp nếu chúng giống hệt nhau về <u class=\"cdp-f-w-bold\">all</u> những điều dưới đây..."
+
+#: menu/configuration.php:275
+msgid "…get the same <a href=\"https://wordpress.org/support/article/using-password-protection/\" target=\"_blank\"><span class=\"cdp-green\">password</span></a> as original."
+msgstr "...nhận cùng một <a href=\"https://wordpress.org/support/article/using-password-protection/\" target=\"_blank\"><span class=\"cdp-green\">mật khẩu</span></a> như bản gốc."
+
+#: menu/configuration.php:265
+msgid "…get the same <a href=\"https://wordpress.org/support/article/post-formats/\" target=\"_blank\"><span class=\"cdp-green\">post format</span></a> as original."
+msgstr "...nhận cùng một <a href=\"https://wordpress.org/support/article/post-formats/\" target=\"_blank\"><span class=\"cdp-green\">định dạng bài đăng</span></a> như bản gốc."
+
+#: menu/configuration.php:240
+msgid "…get the same <a href=\"https://kinsta.com/knowledgebase/wordpress-slug/\" target=\"_blank\"><span class=\"cdp-green\">slug</span></a> of the original. (However after publishing it will give it automatically a new slug because 2 pages cannot be on the same URL)."
+msgstr "...nhận cùng một <a href=\"https://kinsta.com/knowledgebase/wordpress-slug/\" target=\"_blank\"><span class=\"cdp-green\">slug</span></a> của bản gốc. (tuy nhiên sau khi đăng, nó sẽ tự động cung cấp một slug mới bởi 2 trang không thể có cùng một URL)."
+
+#: menu/configuration.php:544
+msgid "ALWAYS change the type when copied (posts will become pages, pages will become posts)"
+msgstr "LUÔN thay đổi thể loại khi sao chép (các bài đăng sẽ trở thành các trang, và các trang sẽ trở thành các bài đăng)."
+
+#: menu/configuration.php:538
+msgid "However, if you want it as a <b class=\"cdp-f-w-bold\">default setting option</b>, then please select it below: "
+msgstr "Tuy nhiên, nếu bạn muốn nó như một <b class=\"cdp-f-w-bold\">tùy chọn cài đặt mặc định</b>, vui lòng chọn bên dưới: "
+
+#: menu/configuration.php:474
+msgid "Adds the <b class=\"cdp-f-w-semi-bold\">current date</b> in"
+msgstr "Thêm <b class=\"cdp-f-w-semi-bold\">ngày tháng hiện tại</b> trong"
+
+#: menu/configuration.php:549
+msgid "Which user role(s) should be able to copy & delete? <i style=\"color: gray\">– The role also must have access to the dashboard.</i>"
+msgstr "(các) vài trò người dùng nào có thể sao chép & xóa <i style=\"color: gray\">– Các vai trò cũng cần phải có quyền truy cập vào bảng điều khiển.</i>"
+
+#: menu/configuration.php:537
+msgid "If you want to make a page out of a post, or vice versa, then you can do this on a <b class=\"cdp-f-w-bold\">case by case basis</b> if you select the option “Define it specifically for this case” in the copy-tooltip, and then select this option on the following screen in the tooltip."
+msgstr "Nếu bạ muốn tạo một trang từ một bài đăng hoặc ngược lại, bạn có thể thực hiện điều đó trong <b class=\"cdp-f-w-bold\">từng trường hợp cụ thể</b>nếu bạn chọn tùy chọn \"Xác định cụ thể cho trường hợp này\" trong tooltip-sao chép, và chọn tùy chọn này trên trang tiếp theo trong tooltip."
+
+#: menu/configuration.php:495
+msgid "You can also type tailored text into the fields above."
+msgstr "Bạn cũng có thể nhập văn bản phù hợp vào các trường trên."
+
+#: menu/configuration.php:405
+msgid ""
+"Do you know anything else you want to have copied (e.g. data added by a different plugin)? <br />\n"
+"                Please <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\"><span class=\"cdp-green\">tell us about it</span></a>, we always want to further improve this plugin! :) "
+msgstr ""
+"Bạn có biết bất kỳ điều gì khác mà bạn muốn sao chép (ví dụ: dữ liệu được thêm mởi một plugin khác)? <br />\n"
+"Vui lòng  <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\"><span class=\"cdp-green\">cho chúng tôi biết về điều đó</span></a>, chúng tôi luôn muốn cái thiện plugin này một cách tốt nhất! :) "
+
+#: menu/configuration.php:398
+msgid "…the same settings from the <a href=\"https://wordpress.org/plugins/wordpress-seo/\" target=\"_blank\"><span class=\"cdp-green\">Yoast SEO plugin</span></a> as the original."
+msgstr "...các cài đặt tương tự từ <a href=\"https://wordpress.org/plugins/wordpress-seo/\" target=\"_blank\"><span class=\"cdp-green\">plugin Yoast SEO</span></a> như bản gốc."
+
+#: menu/configuration.php:381
+msgid "…the same settings from the <a href=\"https://www.ultimatelysocial.com/usm-premium/\" target=\"_blank\"><span class=\"cdp-green\">Ultimate Social Media plugin</span></a> as the original."
+msgstr "...các cài đặt tương tự từ <a href=\"https://www.ultimatelysocial.com/usm-premium/\" target=\"_blank\"><span class=\"cdp-green\">plugin Ultimate Social Media</span></a> như bản gốc."
+
+#: menu/configuration.php:295
+msgid "…get the <a href=\"https://wordpress.stackexchange.com/questions/25202/how-to-change-order-of-menu-items\" target=\"_blank\"><span class=\"cdp-green\">menu order</span></a> from the original."
+msgstr "nhận <a href=\"https://wordpress.stackexchange.com/questions/25202/how-to-change-order-of-menu-items\" target=\"_blank\"><span class=\"cdp-green\">menu order</span></a> từ bản gốc."
+
+#: menu/configuration.php:285
+msgid "…get their <a href=\"https://phppot.com/wordpress/how-to-create-a-child-page-in-wordpress/\" target=\"_blank\"><span class=\"cdp-green\">child pages</span></a> copied as well, with all current settings applied to child-duplicates (if the page is a parent)."
+msgstr "...nhận <a href=\"https://phppot.com/wordpress/how-to-create-a-child-page-in-wordpress/\" target=\"_blank\"><span class=\"cdp-green\">các trang con của họ</span></a> được sao chép, với tất cả những cài đặt hiện tại được áp dụng cho các bản sao con (nếu đây là trang mẹ)."
+
+#: menu/configuration.php:280
+msgid "…create new <a href=\"https://wordpress.org/support/article/using-image-and-file-attachments/#attachment-to-a-post\" target=\"_blank\"><span class=\"cdp-green\">attachments</span></a> (duplicates in Media Library) as well. <i>Recommended only for Multisites.</i>"
+msgstr "...tạo <a href=\"https://wordpress.org/support/article/using-image-and-file-attachments/#attachment-to-a-post\" target=\"_blank\"><span class=\"cdp-green\">các tệp đính kèm mới</span></a> (bản sao trong thư viện Media). <i>Chỉ được đề xuất cho Multisites.</i>"
+
+#: menu/configuration.php:245
+msgid "…get the custom <a href=\"https://wordpress.org/support/article/excerpt/\" target=\"_blank\"><span class=\"cdp-green\">excerpt</span></a> (post/page summary) of the original (if the original had any)."
+msgstr "...nhận <a href=\"https://wordpress.org/support/article/excerpt/\" target=\"_blank\"><span class=\"cdp-green\">đoạn trích tùy chỉnh</span></a> (bản tóm tắt bài đăng/trang) của bản gốc (nếu bản gốc có bất kỳ đoạn trích nào)."
+
+#: menu/configuration.php:990
+msgid "<b>Questions?</b> We're happy to help in the <a href=\"https://wordpress.org/support/plugin/copy-delete-posts/#new-topic-0\" target=\"_blank\" style=\"text-decoration: none;\">Support Forum</a>."
+msgstr "<b>Thắc mắc?</b> Chúng tôi rất vui lòng được trợ giúp cho bạn trong <a href=\"https://wordpress.org/support/plugin/copy-delete-posts/#new-topic-0\" target=\"_blank\" style=\"text-decoration: none;\">Support Forum</a>."
+
+#: menu/variables.php:144
+msgid "Average time is 8 copies per second."
+msgstr "Thời gian trung bình là 8 bản sao mỗi giây."
+
+#: menu/tooltips.php:99
+msgid "define it for this case"
+msgstr "xác định nó cho trường hợp này"
+
+#: menu/modal.php:57 menu/tooltips.php:119
+msgid "Clean slate"
+msgstr "Làm sạch danh sách tạm thời"
+
+#: menu/configuration.php:901
+msgid "Automatic redirection"
+msgstr "Tự động chuyển hướng"
+
+#: menu/configuration.php:776
+msgid "Also count pages/posts of different types as duplicates"
+msgstr "Đồng thời đếm các trang/bài đăng là các bản sao thuộc các thể loại khác nhau"
+
+#: menu/configuration.php:731
+msgid "Custom posts"
+msgstr "Các bài đăng tùy chỉnh"
+
+#: menu/configuration.php:699
+msgid "This isn’t just good for your visitors, but also for SEO: the “link juice” from your old (deleted) articles will be forwarded to the versions you keep, helping you to rank higher in search engines."
+msgstr "Điều này không chỉ tốt cho khách truy cập của bạn mà còn cả SEO: \"link juice\" từ bài viết cũ (đã bị xóa) sẽ được chuyển tiếp đến các phiên bản bạn giữ lại, giúp bạn xếp hạng cao hơn trong các công cụ tìm kiếm."
+
+#: menu/configuration.php:696
+msgid "As part of the <span class=\"cdp-green\">premium plugin</span> you can enable redirects, so that the URLs of your deleted posts/pages automatically take visitors to the version which you decided to keep."
+msgstr "Là một phần của <span class=\"cdp-green\">plugin premium</span> bạn có thể bật chuyển hướng để URL của bài đăng/trang đã bị xóa của bạn tự động đưa khách truy cập đến phiên bản mà bạn quyết định giữ lại."
+
+#: menu/configuration.php:657
+msgid "...and after your copy frenzy, you may need to…"
+msgstr "...và sau khi bạn đã sao chép rất nhiều, bạn có thể cần phải…"
+
+#: menu/configuration.php:569
+msgid "Content types which can be copied"
+msgstr "Nội dung không thể sao chép"
+
+#: menu/configuration.php:548
+msgid "User level permissions"
+msgstr "Người dùng cấp độ có thẩm quyền"
+
+#: menu/configuration.php:536
+msgid "By default, the type of what you copy does not change, i.e. if you copy a post the new version will also be a post, and the same for pages."
+msgstr "Theo mặc định, loại nội dung bản sao chép không thay đổi, nghĩa là nếu bạn sao chép một bài đăng, phiên bản mới vẫn là một bài đăng, và đối với các trang cũng vậy."
+
+#: menu/configuration.php:496
+msgid "If you’re not of the drag & droppy-type, you can also enter shortcodes [Counter], [CurrentDate] and [CurrentTime]."
+msgstr "Nếu bạn không thuộc kiểu kéo & nhỏ giọt, bạn cũng có thể nhập shortcodes [bộ đếm], [Ngày tháng hiện tại] và [Thời gian hiện tại]."
+
+#: menu/configuration.php:491
+msgid "Adds the <b class=\"cdp-f-w-semi-bold\">current time</b> in hh:mm:ss format"
+msgstr "Thêm <b class=\"cdp-f-w-semi-bold\">thời gian hiện tại</b> trong định dạng hh:mm:ss"
+
+#: menu/configuration.php:482
+msgid "format."
+msgstr "định dạng."
+
+#: menu/configuration.php:349
+msgid "…copy only required post/page metadata."
+msgstr "...chỉ sao chép siêu dữ liệu bài đăng/trang được yêu cầu."
+
+#: menu/configuration.php:327 menu/configuration.php:332
+msgid "…be without private taxonomy."
+msgstr "...không có taxonomy riêng tư."
+
+#: menu/configuration.php:284 menu/modal.php:126 menu/tooltips.php:187
+msgid "Children"
+msgstr "Con"
+
+#: menu/configuration.php:276
+msgid "…get no password."
+msgstr "...không cài đặt mật khẩu."
+
+#: menu/configuration.php:270
+msgid "…get the same author as original."
+msgstr "..lấy cùng một tác giả như bản gốc."
+
+#: menu/configuration.php:255
+msgid "…it will set the same <a href=\"https://firstsiteguide.com/wordpress-featured-image/\" target=\"_blank\"><span class=\"cdp-green\">featured image</span></a> as the original."
+msgstr "...nó sẽ đặt cùng một <a href=\"https://firstsiteguide.com/wordpress-featured-image/\" target=\"_blank\"><span class=\"cdp-green\">hình ảnh nổi bật</span></a> như ban đầu."
+
+#: menu/configuration.php:250
+msgid "…get all the content (text, images, videos and other elements/blocks) from the original."
+msgstr "...nhận tất cả nội dung (văn bản, hình ảnh, video và những yếu tố/blocks khác) từ bản gốc."
+
+#: menu/configuration.php:236
+msgid "…get the status “Draft”."
+msgstr "...nhận trạng thái \"Bản nháp\"."
+
+#: menu/configuration.php:231
+msgid "…get the date & time at time of copying. "
+msgstr "...lấy ngày & thời gian giống với thời gian sao chép. "
+
+#: menu/configuration.php:230
+msgid "…get the same creation date & time as the original."
+msgstr "...lấy ngày & thời gian tạo giống bản gốc."
+
+#: menu/configuration.php:226
+msgid "…be titled “Untitled”."
+msgstr "...được đặt tiêu đề \"Không tiêu đề\"."
+
+#: menu/configuration.php:189
+msgid "settings"
+msgstr "cài đặt"
+
+#: copy-delete-posts.php:744
+msgid "Manual Cleanup removed "
+msgstr "Dọn dẹp theo cách thủ công đã bị xóa "
+
+#: copy-delete-posts.php:387 copy-delete-posts.php:417
+msgid "test"
+msgstr "kiểm tra"
+
+#: copy-delete-posts.php:896
+msgid "–––––––––––––- END OF THE DEBUG OUTPUT –––––––––––––- "
+msgstr "–––––––––––––- KẾT THÚC ĐẦU RA DEBUG –––––––––––––- "
+
+#: copy-delete-posts.php:894
+msgid "Are you REALLY sure?"
+msgstr "Bạn có THỰC SỰ chắc chắn?"
+
+#: copy-delete-posts.php:882 menu/notifications.php:56
+msgid "Kill"
+msgstr "Tắt"
+
+#: copy-delete-posts.php:860
+msgid "Cannot connect to the server, premium filters will not be applied."
+msgstr "Không thể kết nối đến máy chủ, bộ lọc premium không được ứng dụng."
+
+#: copy-delete-posts.php:858
+msgid "Something went wrong and we couldn't get post list. – Please check console for more info."
+msgstr "Đã xảy ra lỗi và chúng tôi không thể tải danh sách bài đăng - Vui lòng kiểm tra bảng điều khiển để biết thêm chi tiết."
+
+#: copy-delete-posts.php:845
+msgid "Something went wrong and we couldn't save your settings."
+msgstr "Đã cảy ra lỗi và chúng tôi không thể lưu cài đặt của bạn."
+
+#: copy-delete-posts.php:839
+msgid "No items to show, try with other filters!"
+msgstr "Không có khoản mục nào để hiển thị, thử với những bộ lọc khác!"
+
+#: menu/configuration.php:996
+msgid "Connect with support (click to load)"
+msgstr "Kết nối với bộ phận hỗ trợ (click để tải)"
+
+#: menu/configuration.php:998
+msgid "This will establish connection to the chat servers"
+msgstr "Điều này sẽ thiết lập kết nối với máy chủ trò chuyện"
+
+#. Author URI of the plugin
+msgid "https://copy-delete-posts.com/"
+msgstr "https://copy-delete-posts.com/"
+
+#. Author of the plugin
+msgid "Copy Delete Posts"
+msgstr "Copy Delete Posts"
+
+#. Plugin URI of the plugin
+msgid "https://copy-delete-posts.com"
+msgstr "https://copy-delete-posts.com"
+
+#. Plugin Name of the plugin
+#: copy-delete-posts.php:357 copy-delete-posts.php:825
+#: copy-delete-posts.php:829
+msgid "Copy & Delete Posts"
+msgstr "Copy & Delete Posts"
+
+#. Description of the plugin
+msgid "The best solution to easily make duplicates of your posts & pages, and delete them in one go."
+msgstr "Giải pháp tốt nhất để dễ dàng tạo bản sao các bài đăng và trang của bạn, và xóa chúng chỉ trong một lần."
